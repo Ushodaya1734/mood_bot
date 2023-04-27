@@ -15,3 +15,10 @@ Scripting language:-JavaScript
 ![image](https://user-images.githubusercontent.com/131970727/234872393-2329deff-c768-448f-ae58-450979d81308.png)
 
 
+OUTPUT SCREENS
+![image](https://user-images.githubusercontent.com/131970727/234873667-016c4f2a-1ec8-4729-a6f4-829f1e1b7312.png)
+![image](https://user-images.githubusercontent.com/131970727/234873754-1cf05125-1f22-42ca-88b2-fb5574fa8804.png)                                 
+![image](https://user-images.githubusercontent.com/131970727/234873815-533b5de4-cb59-456c-8a23-695ffd27659e.png)
+![image](https://user-images.githubusercontent.com/131970727/234873897-fe68550a-1bc9-46e8-9757-e29d9d2d784d.png)
+![image](https://user-images.githubusercontent.com/131970727/234873963-ce9cdc27-417b-44c2-bced-2be08537c931.png)
+
